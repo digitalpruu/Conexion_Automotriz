@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Servicio",
-        "description": "En Conexión Automotriz, nos especializamos en cerrajería automotriz, ofreciendo soluciones rápidas y efectivas para tus necesidades de seguridad vehicular.",
+        "description": "En Conexión Automotriz, nos especializamos en cerrajería automotriz, ofreciendo soluciones rápidas y efectivas para tus necesidades de seguridad vehicular. Venta e instalacion de articulos de seguridad y sonido para tu vehiculo",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Conócenos",
-        "description": "Ya sea que necesites duplicados de llaves, reparación de cerraduras o programación de llaves electrónicas, estamos aquí para ayudarte a mantener tu automóvil seguro y en buen estado.",
+        "description": "Ya sea que necesites duplicados de llaves, reparación de cerraduras o programación de llaves con chip, estamos aquí para ayudarte a mantener tu automóvil seguro y en buen estado.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 314 2138897",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "conexionautomotriz1@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "Conexión Automotriz",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
